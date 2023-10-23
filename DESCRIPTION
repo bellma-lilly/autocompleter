@@ -1,0 +1,37 @@
+Package: autocompleter
+Type: Package
+Title: Text Input Autocompletion
+Version: 1.1 
+Author: Michael Bell, Richard Kunze, Mirjam Rehr
+Maintainer: Michael Bell <bellma@lilly.com>
+Description: Text Input autocompletion with multiple modes. Forked from dqshiny.
+LICENSE: GPL (>= 3) + file LICENSE.note
+Authors@R: c(
+  person(
+    given = "Richard",
+    family = "Kunze",
+    role = c("aut", “cph”),
+    comment = “Author from 2018 through 2020.“
+  ),
+  person(
+    given = "Mirjam",
+    family = "Rehr",
+    role = c("aut", “cph”),
+    comment = “Author from 2018 through 2020.“
+  ),
+  person(
+    given = "Michael",
+    family = "Bell",
+    email = bellma@lilly.com,
+    role = c("aut", "cre"),
+    comment = “Author since 2023.”
+  ),
+ person(
+    family = "Eli Lilly and Company",
+    role = "cph"
+  ))
+Encoding: UTF-8
+Imports: shiny, htmltools, jsonlite
+URL: https://github.com/bellma-lilly/autocompleter
+BugReports: https://github.com/bellma-lilly/autocompleter/issues
+RoxygenNote: 7.1.1
