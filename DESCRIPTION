@@ -10,21 +10,21 @@ Authors@R: c(
   person(
     given = "Richard",
     family = "Kunze",
-    role = c("aut", “cph”),
-    comment = “Author from 2018 through 2020.“
+    role = c("aut", "cph"),
+    comment = "Author from 2018 through 2020."
   ),
   person(
     given = "Mirjam",
     family = "Rehr",
-    role = c("aut", “cph”),
-    comment = “Author from 2018 through 2020.“
+    role = c("aut", "cph"),
+    comment = "Author from 2018 through 2020."
   ),
   person(
     given = "Michael",
     family = "Bell",
-    email = bellma@lilly.com,
+    email = "bellma@lilly.com",
     role = c("aut", "cre"),
-    comment = “Author since 2023.”
+    comment = "Author since 2023."
   ),
  person(
     family = "Eli Lilly and Company",
